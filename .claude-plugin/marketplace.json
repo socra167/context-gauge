@@ -1,0 +1,5 @@
+{
+  "name": "context-gauge",
+  "owner": { "name": "socra167" },
+  "plugins": [{ "name": "context-gauge", "source": "./" }]
+}
